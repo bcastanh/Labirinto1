@@ -1,0 +1,12 @@
+org\fxapps\genetics\HelloWorldJenetics.class
+org\fxapps\genetics\Relogio.class
+org\fxapps\genetics\SentenceWriter.class
+org\fxapps\genetics\maze\MazeSolver.class
+org\fxapps\genetics\mazefx\MazeFXApp.class
+org\fxapps\genetics\maze\MazeWalkingInfo.class
+org\fxapps\genetics\maze\Direction.class
+org\fxapps\genetics\maze\Maze.class
+org\fxapps\genetics\maze\MazeApp.class
+org\fxapps\genetics\mazefx\MazeFXApp$1.class
+org\fxapps\genetics\LargestDigitSum.class
+org\fxapps\genetics\maze\Maze$1.class
